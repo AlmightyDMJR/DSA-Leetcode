@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0001-two-sum) |
 | [1563-stone-game-v](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0001-two-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
