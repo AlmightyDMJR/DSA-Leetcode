@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1510-stone-game-iv](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1563-stone-game-v) |
 ## Minimax
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0796-rotate-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
