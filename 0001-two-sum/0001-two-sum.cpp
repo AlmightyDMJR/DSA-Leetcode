@@ -4,16 +4,13 @@ public:
         
         int n = nums.size();
 
+        unordered_map<int,int> mpp;
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if((nums[i]+nums[j])==target){
+            int comp = target - nums[i];
+            if(mpp.find(comp)!= mpp.end()) return {mpp[comp],i};
+            mpp[nums[i]] = i;
 
-                
-                return {i,j};
-                
-                }
-            }
         }
-        return {};
+        return {-1,-1};
     }
 };
