@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [1386-cinema-seat-allocation](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2029-stone-game-ix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Manacher
 |  |
@@ -125,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
