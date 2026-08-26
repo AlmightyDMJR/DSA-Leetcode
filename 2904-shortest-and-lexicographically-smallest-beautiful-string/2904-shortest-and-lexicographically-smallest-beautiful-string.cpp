@@ -3,14 +3,14 @@ public:
     string shortestBeautifulSubstring(string s, int k) {
         int n = s.length();
         int i = 0;
-        int ones = 0;     // number of '1's in window [i, j]
+        int ones = 0;    
         string result = "";
 
         for (int j = 0; j < n; j++) {
             if (s[j] == '1') 
                 ones++;
 
-            //remove extra 1's, then trim leading 0's
+            
             while (ones > k || s[i] == '0') {
                 if (s[i] == '1') 
                     ones--;
