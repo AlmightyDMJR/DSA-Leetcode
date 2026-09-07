@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1872-stone-game-viii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
