@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -260,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
