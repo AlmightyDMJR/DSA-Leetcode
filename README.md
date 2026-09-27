@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1563-stone-game-v) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,10 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,5 +278,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
