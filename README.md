@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0796-rotate-string](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
