@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1563-stone-game-v) |
@@ -271,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
