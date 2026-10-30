@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0200-number-of-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AlmightyDMJR/DSA-Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
